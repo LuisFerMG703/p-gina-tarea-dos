@@ -1,0 +1,107 @@
+body {
+	background-color: #ffe0b3; 
+	background-image: url("imagenes/nubes.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-attachment: fixed;
+	font-family: 'sofia';
+}
+.recuadro {
+	background-color: rgba(236, 128, 19, 1);
+	font-size: 24px
+	padding-left:30px;
+	padding-top:10px
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	background-color:#804000;
+}
+
+
+img {
+	width: 126px;
+	position: absolute;
+	left:50px;
+	top:21px;
+
+}
+	
+nav li {
+	display: inline-block;
+		font-size: 40px
+		color: white;
+		background-color: orange;
+		border-color: white;
+	}
+nav {
+	position: fixed;
+	top: 97px;
+	width: 250%;
+}
+
+		
+body 
+	h1 {
+		text-align: center;
+		color: white;
+	}
+
+
+
+	p, ul, h4, dd{
+	color: black;
+	font-size: 18px;
+	font-family: verdana;
+	}
+
+	#quehacer {
+		text-align: center;
+		color: white
+	}
+
+	#contenedor {
+		background-color: azure;
+		width: 80%;
+		margin:0 auto;
+	}
+
+	.bloque2 {
+		color:aqua;
+		background-color: white;
+		width: 60%;
+
+
+	}
+
+	div p {
+		font-size: 24px
+		background-color: orange;
+		padding: 30px
+		
+	}
+
+	div {
+		width: 20%
+		height:50px;
+		margin: 10px 50px;
+		border: 10px solid #000
+		display: inline-block;
+
+	}
+
+	* p {
+		margin: 2;
+		padding: 2;
+		color: black;
+		}
+
+
+
+h4~p{color:#black; }
